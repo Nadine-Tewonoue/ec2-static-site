@@ -1,2 +1,5 @@
-*.pem
+# ignore key files
+Deployment-ec2-Nadine.pem
+.env
 *.key
+*.pem
